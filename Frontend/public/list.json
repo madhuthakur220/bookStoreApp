@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Perfect for bookstore & book publisher sites",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/book-with-fairies-flying-garden_1308-36771.jpg?t=st=1728565824~exp=1728569424~hmac=167ead3e16339da2c25576318ed4b53b2d3fb27091e48bddb5761596d1d6a90f&w=1380"
+  },
+  {
+    "id": 2,
+    "name": "Comedy Book",
+    "title": "Perfect for bookstore & book publisher sites",
+    "price": 20,
+    "category": "Enjoy",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-with-copy-space-education-day_23-2149241015.jpg?t=st=1728417740~exp=1728421340~hmac=1040df206da185a8aabcb22ae2e9ae5a22620c86ea825a2b6f1973eb0c740169&w=826"
+  },
+
+  {
+    "id": 3,
+    "name": "Sports Book",
+    "title": "Perfect for bookstore & book publisher sites",
+    "price": 50,
+    "category": "Sports",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-with-copy-space-education-day_23-2149241015.jpg?t=st=1728417740~exp=1728421340~hmac=1040df206da185a8aabcb22ae2e9ae5a22620c86ea825a2b6f1973eb0c740169&w=826"
+  },
+
+  {
+    "id": 4,
+    "name": "Horror",
+    "title": "Perfect for bookstore & book publisher sites",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/premium-photo/horror-book-cover-background_1004054-13548.jpg?w=1060"
+  },
+
+  {
+    "id": 5,
+    "name": "Music",
+    "title": "Perfect for bookstore & book publisher sites",
+    "price": 1000,
+    "category": "Music",
+    "image": "https://img.freepik.com/premium-photo/music-flowing-from-book-musical-symbols-flying-tome-wooden-table-against-blurred-background_968529-284945.jpg?w=1060"
+  },
+  {
+    "id": 6,
+    "name": "Motivational",
+    "title": "Perfect for bookstore & book publisher sites",
+    "price": 230,
+    "category": "Motivational",
+    "image": "https://img.freepik.com/premium-photo/believe-your-potential-message-written-book-cover-conceptual-believe-your-potential-symbol-copy-space_648871-8090.jpg?w=1800"
+  },
+  {
+    "id": 7,
+    "name": "Story Book",
+    "title": "Perfect for bookstore & book publisher sites",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling_23-2150793593.jpg?t=st=1728566547~exp=1728570147~hmac=37dd5efb9ed92fef8f5f5ddb8b519924412ba36e16d5d3f555784f2fc3edb2c0&w=1800"
+  },
+  {
+    "id": 8,
+    "name": "Story Book",
+    "title": "Perfect for bookstore & book publisher sites",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-photo/magic-fairy-tale-book-illustration-with-astronaut-exploring-planet_23-2150133001.jpg?t=st=1728565927~exp=1728569527~hmac=3ff0560a4562020f54caec246f55ae3558d34b769abd83c6b451818fbd6ba600&w=1060"
+  },
+  {
+    "id": 9,
+    "name": "Story Book",
+    "title": "Perfect for bookstore & book publisher sites",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/premium-photo/horror-book-cover-background_1004054-13548.jpg?w=1060"
+  },
+  {
+    "id": 10,
+    "name": "Story Book",
+    "title": "Perfect for bookstore & book publisher sites",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/premium-photo/world-book-day_545377-2527.jpg?w=1060"
+  },
+  {
+    "id": 11,
+    "name": "Food",
+    "title": "Perfect for bookstore & book publisher sites",
+    "price": 200,
+    "category": "Food",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-with-copy-space-education-day_23-2149241015.jpg?t=st=1728417740~exp=1728421340~hmac=1040df206da185a8aabcb22ae2e9ae5a22620c86ea825a2b6f1973eb0c740169&w=826"
+  },
+  {
+    "id": 12,
+    "name": "Story Book",
+    "title": "Perfect for bookstore & book publisher sites",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/premium-photo/children-reading-book-lush-green-garden-illustration_87009-3011.jpg?w=1480"
+  }
+]
